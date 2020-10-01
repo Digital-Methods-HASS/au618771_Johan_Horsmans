@@ -60,8 +60,6 @@ library(tidyverse) #Tidyverse was already installed on my computer.
 download.file("https://ndownloader.figshare.com/files/11492171","data/SAFI_clean.csv",mode="wb") #Download data to the "data" folder in my repository/working directory.
 
 interviews=read.csv("Data/SAFI_clean.csv") #Read the SAFI_clean.csv file and save it as an object named "interviews".
-
-#Here is the link to my screenshot:
 ```
 
 Here is the link to my screenshot:
